@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Shows git branches sorted by last commit date, noting when branch has been
 merged:
